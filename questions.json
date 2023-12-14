@@ -1,0 +1,80 @@
+[
+  {
+    "question": "What role did fraternal organizations like Freemasonry play in the lives of Black transportation workers in Halifax?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "Provided financial support and community",
+        "correct": true,
+        "feedback": "Correct. They offered a support system and a sense of community."
+      },
+      {
+        "answer": "Offered transportation services",
+        "correct": false,
+        "feedback": "Incorrect. Their primary role was not in providing transportation."
+      },
+      {
+        "answer": "Acted as a political party",
+        "correct": false,
+        "feedback": "Incorrect. They were not political entities."
+      },
+      {
+        "answer": "Focused solely on religious activities",
+        "correct": false,
+        "feedback": "Incorrect. Their focus was broader than just religious activities."
+      }
+    ]
+  },
+  {
+    "question": "Who was the first Black Grand Master of a traditional Masonic lodge in North America?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "Charles Roman Lightfoot",
+        "correct": true,
+        "feedback": "Correct. He was the first Black Grand Master in North America."
+      },
+      {
+        "answer": "Joseph Henson",
+        "correct": false,
+        "feedback": "Incorrect. Joseph Henson was significant but not in this role."
+      },
+      {
+        "answer": "Martin Delany",
+        "correct": false,
+        "feedback": "Incorrect. Martin Delany was a prominent figure but not in this context."
+      },
+      {
+        "answer": "Thomas Stringer",
+        "correct": false,
+        "feedback": "Incorrect. Thomas Stringer was notable but not the first Grand Master."
+      }
+    ]
+  },
+  {
+    "question": "What was a key achievement of the Brotherhood of Sleeping Car Porters in Canada by 1954?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "Integration of Black and white workers in the railway industry",
+        "correct": true,
+        "feedback": "Correct. They played a pivotal role in integrating Black workers into higher positions."
+      },
+      {
+        "answer": "Establishment of the first Black-owned railway company",
+        "correct": false,
+        "feedback": "Incorrect. They did not establish a railway company."
+      },
+      {
+        "answer": "Creation of the first Black-led political party",
+        "correct": false,
+        "feedback": "Incorrect. Their focus was on labor rights, not political parties."
+      },
+      {
+        "answer": "Development of the first Black university in Canada",
+        "correct": false,
+        "feedback": "Incorrect. Their focus was on labor rights and not educational institutions."
+      }
+    ]
+  }
+]
