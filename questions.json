@@ -76,5 +76,31 @@
         "feedback": "Incorrect. Their focus was on labor rights and not educational institutions."
       }
     ]
+  },
+  {
+    "question": "What was a significant outcome of the expansion of Prince Hall Freemasonry in Ontario after the Emancipation Act of 1833?",
+    "type": "multiple_choice",
+    "answers": [
+      {
+        "answer": "Establishment of the first Black university in Ontario",
+        "correct": false,
+        "feedback": "Incorrect. The expansion focused on Freemasonry lodges, not educational institutions."
+      },
+      {
+        "answer": "Formation of the Grand Lodge of the Province of Ontario in 1871",
+        "correct": true,
+        "feedback": "Correct. This was a key organizational development in response to the rapid expansion of lodges."
+      },
+      {
+        "answer": "Integration of Freemasonry with political movements",
+        "correct": false,
+        "feedback": "Incorrect. While influential, the focus was more on community support and empowerment."
+      },
+      {
+        "answer": "Creation of a new religious denomination",
+        "correct": false,
+        "feedback": "Incorrect. The expansion was related to Freemasonry, which is not a religious denomination."
+      }
+    ]
   }
 ]
